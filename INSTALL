@@ -1,0 +1,9 @@
+Building FindCoin
+
+See doc/readme-qt.rst for instructions on building FindCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FindCoin.
+
+See doc/build-*.txt for instructions on building findcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FindCoin.
